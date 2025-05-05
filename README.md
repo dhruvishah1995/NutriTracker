@@ -1,9 +1,9 @@
 
-# NutrientTracker App
+# NutriTracker App
 
 ## Overview
 
-NutrientTracker is a cutting-edge application designed to assist you in monitoring your daily nutritional contents of ingredients used in your home-cooked meals. Leveraging the power of generative AI, NutrientTracker offers accurate estimations of essential micronutrients, including sugar, fat, protein, fiber, cholesterol, and more, ensuring you can maintain a healthy diet tailored to your recipes.
+NutriTracker is a cutting-edge application designed to assist you in monitoring your daily nutritional contents of ingredients used in your home-cooked meals. Leveraging the power of generative AI, NutrientTracker offers accurate estimations of essential micronutrients, including sugar, fat, protein, fiber, cholesterol, and more, ensuring you can maintain a healthy diet tailored to your recipes.
 
 ## Motivation
 
@@ -16,9 +16,9 @@ In pursuit of dietary awareness, I often used ChatGPT to obtain nutritional valu
 - **Efficient Data Management**: Incorporates Redux for seamless state management across the application.
 - **Easy-to-Use Interface**: Designed with a user-friendly layout for straightforward data entry and result visualization.
 
-This is our objective and the work is in progress.
+This is our objective, and the work is in progress.
 
-if you have an idea would like to see it implemented in tech, Feel free to connect. 
+If you have an idea you would like to see implemented in tech, feel free to connect. 
 
 ## 📨 Let's Connect
 
