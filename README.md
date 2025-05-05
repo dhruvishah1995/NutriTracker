@@ -3,7 +3,7 @@
 
 ## Overview
 
-NutriTracker is a cutting-edge application designed to assist you in monitoring your daily nutritional contents of ingredients used in your home-cooked meals. Leveraging the power of generative AI, NutrientTracker offers accurate estimations of essential micronutrients, including sugar, fat, protein, fiber, cholesterol, and more, ensuring you can maintain a healthy diet tailored to your recipes.
+NutriTracker is a cutting-edge application designed to assist you in monitoring your daily nutritional contents of ingredients used in your home-cooked meals. Leveraging the power of generative AI, NutriTracker offers accurate estimations of essential micronutrients, including sugar, fat, protein, fiber, cholesterol, and more, ensuring you can maintain a healthy diet tailored to your recipes.
 
 ## Motivation
 
